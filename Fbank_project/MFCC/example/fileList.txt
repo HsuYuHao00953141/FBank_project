@@ -1,0 +1,1 @@
+example/a001_0_30.wav	example/a001_0_30.fbank
